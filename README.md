@@ -1,6 +1,6 @@
 ## Data Science Blog Post
 
-You can read my Medium Blog Post in [here]().
+You can read my Medium Blog Post in [here](https://medium.com/@pradeepan.prabha/top-20-countries-developers-are-analyzed-using-stack-overflow-survey-2019-eea30821bfe).
 
 ### Libraries
 To be able to run this notebook, you need to install these libraries:
@@ -17,8 +17,8 @@ I used jupyter notebook to do the analysis which you can find in the `stack_over
 ### Project Motivation
 Based on Cross-Industry Standard Process of Data Mining (CRISP-DM), the Boston and Seatle Airbnb datasets were collected and investigated. Three bisinuess questions were asked and answered:
 
-1. Which country have hightest job satisfaction has a developer?
-2. Different between job satisfaction has a developer, From Undergraduate computer field or those who different field?
+1. Which country has the highest job satisfaction has a developer?
+2. Different between job satisfaction has a developer, From Undergraduate computer field or those who different fields?
 3. Since developers who contribute to open source have higher salary then who are not?
 
 ### Result Summary
