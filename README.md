@@ -1,4 +1,4 @@
-## 1 - Data Science Blog Post
+## Data Science Blog Post
 
 You can read my Medium Blog Post in [here]().
 
